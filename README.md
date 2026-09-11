@@ -6,4 +6,4 @@ Student doktorskih studija
 - Agentic AI
 - AI u medicini
 
-[Moj GitHub](https://github.com/muskatorah)
+[Moj GitHub](https://www.youtube.com/watch?v=QDia3e12czc)
