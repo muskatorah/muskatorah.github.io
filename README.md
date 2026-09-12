@@ -1,5 +1,5 @@
 # Dejan Babić
-Student doktorskih studija
+Vjeciti student doktorskih studija
 
 ## Šta me zanima
 - AI
