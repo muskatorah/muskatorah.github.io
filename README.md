@@ -1,3 +1,8 @@
+---
+layout: default
+title: Dejan Babic
+---
+
 # Dejan Babić
 Vjeciti student doktorskih studija
 
